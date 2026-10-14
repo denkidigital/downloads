@@ -1,6 +1,6 @@
 # Denki Digital: free downloads
 
-The installers for Denki Digital's free instruments, **Hotaru 240** and **Tsukumo 99**, are
+The installers for Denki Digital's free instruments, **Hotaru 240**, **Tsukumo 99** and **Tsugime**, are
 attached to this repository's releases. Their pages, manuals and install guide are at
 [www.denkidigital.com](https://www.denkidigital.com).
 
